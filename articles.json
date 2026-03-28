@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Best Soap Dispensers of 2026: 7 Expert-Tested Picks for Every Style",
+    "slug": "best-soap-dispensers",
+    "summary": "We tested 20+ soap dispensers across manual, automatic, and wall-mounted categories. Our 7 top picks from $9.99 to $39.99 — ranked by build quality, pump action, and design.",
+    "image": "images/hero-best-soap-dispensers.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We tested 20+ soap dispensers across manual, automatic, and wall-mounted categories. Our 7 top picks from $9.99 to $39.99 — ranked by build quality, pump action, and design."
+  },
+  {
+    "title": "6 Best Automatic Touchless Soap Dispensers for Germ-Free Hands (2026)",
+    "slug": "best-automatic-touchless-soap-dispensers",
+    "summary": "We tested 15+ automatic soap dispensers for sensor accuracy, battery life, and soap volume control. Our 6 best picks from $14.99 to $49.99 for kitchens and bathrooms.",
+    "image": "images/hero-best-automatic-touchless-soap-dispensers.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We tested 15+ automatic soap dispensers for sensor accuracy, battery life, and soap volume control. Our 6 best picks from $14.99 to $49.99 for kitchens and bathrooms."
+  },
+  {
+    "title": "Soap Dispenser vs Bar Soap: Which Is More Hygienic? (2026)",
+    "slug": "soap-dispenser-vs-bar-soap",
+    "summary": "Liquid soap dispenser vs bar soap compared on hygiene, cost, environmental impact, and convenience. Science-backed analysis to help you choose the right option.",
+    "image": "images/hero-soap-dispenser-vs-bar-soap.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Comparisons",
+    "template": "versus",
+    "featured": true,
+    "description": "Liquid soap dispenser vs bar soap compared on hygiene, cost, environmental impact, and convenience. Science-backed analysis to help you choose the right option."
+  }
+]

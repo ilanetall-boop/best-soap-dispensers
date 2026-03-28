@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" rx="4" fill="#4E342E"/>
+
+  <!-- Dispenser Body -->
+  <rect x="10" y="10" width="12" height="16" rx="2" fill="#795548" stroke="#BCAAA4" stroke-width="1"/>
+
+  <!-- Pump Top -->
+  <rect x="14" y="4" width="4" height="3" rx="1" fill="#BCAAA4"/>
+
+  <!-- Pump Nozzle -->
+  <rect x="17" y="5" width="6" height="2" rx="1" fill="#BCAAA4"/>
+
+  <!-- Soap Drop -->
+  <path d="M24 9C24 9 22.5 11.5 22.5 12.5C22.5 13.3 23.2 14 24 14C24.8 14 25.5 13.3 25.5 12.5C25.5 11.5 24 9 24 9Z" fill="#26C6DA"/>
+
+  <!-- Label on body -->
+  <rect x="12" y="15" width="8" height="4" rx="1" fill="#EFEBE9" opacity="0.6"/>
+</svg>
