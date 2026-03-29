@@ -37,5 +37,18 @@
     "template": "versus",
     "featured": true,
     "description": "Liquid soap dispenser vs bar soap compared on hygiene, cost, environmental impact, and convenience. Science-backed analysis to help you choose the right option."
+  },
+  {
+    "title": "Best Wall-Mounted Soap Dispensers: 6 Space-Saving Picks (2026)",
+    "slug": "best-wall-mounted-soap-dispensers",
+    "summary": "We tested 15+ wall-mounted soap dispensers and found the 6 best for every budget. From stainless steel manual to touchless automatic — expert picks from $12.99 to $49.99.",
+    "image": "images/hero-best-wall-mounted-soap-dispensers.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-29",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We tested 15+ wall-mounted soap dispensers and found the 6 best for every budget. From stainless steel manual to touchless automatic — expert picks from $12.99 to $49.99."
   }
 ]
