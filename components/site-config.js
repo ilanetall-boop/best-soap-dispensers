@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/soap-dispensers-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestsoapdispensers-20",
-  gaId: "TBD",
+  gaId: "G-G94GNW92J7",
   colors: {
     primary: "#4E342E",
     primaryLight: "#795548",
