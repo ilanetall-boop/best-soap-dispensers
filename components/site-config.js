@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
   name: "Best Soap Dispensers",
   domain: "best-soap-dispensers.com",
   tagline: "Expert reviews & buying guides for stylish soap dispensers",
-  logo: "images/soap-dispensers-logo.svg",
+  logo: "images/soap-dispensers-logo.svg?v=2",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestsoapdispensers-20",
   gaId: "G-G94GNW92J7",
