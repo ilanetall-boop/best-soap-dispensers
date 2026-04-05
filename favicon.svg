@@ -1,19 +1,18 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="32" height="32" rx="4" fill="#4E342E"/>
-
-  <!-- Dispenser Body -->
-  <rect x="10" y="10" width="12" height="16" rx="2" fill="#795548" stroke="#BCAAA4" stroke-width="1"/>
-
-  <!-- Pump Top -->
-  <rect x="14" y="4" width="4" height="3" rx="1" fill="#BCAAA4"/>
-
-  <!-- Pump Nozzle -->
-  <rect x="17" y="5" width="6" height="2" rx="1" fill="#BCAAA4"/>
-
-  <!-- Soap Drop -->
-  <path d="M24 9C24 9 22.5 11.5 22.5 12.5C22.5 13.3 23.2 14 24 14C24.8 14 25.5 13.3 25.5 12.5C25.5 11.5 24 9 24 9Z" fill="#26C6DA"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
+  <rect width="56" height="56" rx="12" fill="#4E342E"/>
+  <!-- Dispenser body -->
+  <rect x="18" y="22" width="20" height="24" rx="4" fill="#8D6E63"/>
+  <!-- Dispenser neck -->
+  <rect x="24" y="16" width="8" height="8" rx="2" fill="#A1887F"/>
+  <!-- Pump head -->
+  <rect x="22" y="12" width="6" height="5" rx="2" fill="#BCAAA4"/>
+  <!-- Pump nozzle -->
+  <path d="M22,14 L16,14 L16,16 L18,18" stroke="#BCAAA4" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Soap drop -->
+  <ellipse cx="16" cy="21" rx="2.5" ry="3" fill="#FFE0B2" opacity="0.8"/>
   <!-- Label on body -->
-  <rect x="12" y="15" width="8" height="4" rx="1" fill="#EFEBE9" opacity="0.6"/>
+  <rect x="22" y="28" width="12" height="8" rx="2" fill="#EFEBE9" opacity="0.5"/>
+  <!-- Label lines -->
+  <rect x="24" y="30" width="8" height="1" rx="0.5" fill="#D7CCC8"/>
+  <rect x="25" y="33" width="6" height="1" rx="0.5" fill="#D7CCC8"/>
 </svg>
