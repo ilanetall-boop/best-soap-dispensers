@@ -107,7 +107,8 @@
     "category": "Comparisons",
     "template": "comparison",
     "description": "Automatic vs manual soap dispenser: which is worth it? We break down build quality, price, and daily use so you can pick the right one for your kitchen or bath.",
-    "date": "2026-06-04"
+    "date": "2026-06-04",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-soap-dispensers-under-20",
@@ -118,7 +119,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We lived with seven soap dispensers to find the best ones for under $20. Our top pick, a refillable budget glass jar, and touch-free sensors compared honestly.",
-    "date": "2026-06-03"
+    "date": "2026-06-03",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-kitchen-soap-dispensers",
@@ -129,7 +131,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We put seven kitchen soap dispensers to work at the sink. The best touchless and pump models for fast sensors, easy refills, and a clean counter, from $8.99.",
-    "date": "2026-06-02"
+    "date": "2026-06-02",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-automatic-soap-dispensers",
@@ -140,7 +143,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We lived with seven touchless soap dispensers for weeks. The best automatic soap dispensers for fast sensors, easy refills, and a clean countertop, from $15.99.",
-    "date": "2026-06-01"
+    "date": "2026-06-01",
+    "lastModified": "2026-06-14"
   },
   {
     "title": "The Best Rechargeable Soap Dispensers (2026)",
@@ -152,6 +156,7 @@
     "template": "roundup",
     "featured": true,
     "description": "USB rechargeable touchless soap dispensers tested for sensor speed, battery life, and design. Top 7 picks for the modern bathroom.",
-    "date": "2026-05-19"
+    "date": "2026-05-19",
+    "lastModified": "2026-06-14"
   }
 ]
